@@ -2,8 +2,8 @@
 Your project's description...
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.hlx.page/
-- Live: https://main--{repo}--{owner}.hlx.live/
+- Preview: https://main--aem-edge-delivery-services--sarthak-kakkar.hlx.page/
+- Live: https://main--aem-edge-delivery-services--sarthak-kakkar.hlx.live/
 
 ## Installation
 
